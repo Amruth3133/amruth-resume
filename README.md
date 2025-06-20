@@ -6,7 +6,10 @@ This repository contains the latest version of my professional resume.
 
 ## 📥 Download
 
-👉 [Click here to view or download my resume (PDF)](Amruth_Ram_Resume.pdf)
+👉 ## 📥 Download
+
+👉 [Click here to view or download my resume (PDF)](https://github.com/Amruth3133/amruth-resume/raw/main/Amruth_Ram_Resume.pdf)
+
 
 ---
 
